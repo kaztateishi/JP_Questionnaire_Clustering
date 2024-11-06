@@ -51,7 +51,7 @@ The script requires the following Python libraries:
    
 2. Run the script:
    ```bash
-   python categorize_responses.py
+   python JP_Q_Clustering.py
    ```
 
 ### Detailed Steps
